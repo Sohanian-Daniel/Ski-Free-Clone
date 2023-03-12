@@ -16,3 +16,9 @@ The game is heavily inspired by SkiFree, and is missing many features from the o
 # Building
 
 Check the [framework GitHub page](https://github.com/UPB-Graphics/gfx-framework) for more on how to build the thing!
+
+# TODO
+- A more compelling gameplay loop.
+- Actual enemies, perhaps a "chasing monster" that continually follows you and forces you to not stall for as long (moving diagonally is slower than straight down)
+- More levels and variations.
+- Use a Shader Storage Buffer Object (SSBO) to have a variable amount of lights instead of a set number.
